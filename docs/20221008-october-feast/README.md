@@ -44,4 +44,4 @@ For questions, feel free to contact:
 ## Disclaimer
 
 This event is not sponsored, nor paid for, by the Pine Trace at Bink's Forest Home Owner's Association.
-It's simply your neighbors huckin' in a couple of bucks to have a party.
+It's simply your neighbors chipping in a couple of bucks to have a party.
