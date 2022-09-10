@@ -16,15 +16,12 @@ Some of your neighbors have banded together to put together a block party.
 Come join us for food, beverage, and conversation.
 This is a free event.
 
-The plan is to serve the following:  Pulled pork sandwiches, Brisket, Hotdogs,
-Beans, Cole Slaw, Rolls, Cookies, Watermelon, Water, Soda.
+The plan is to serve the following:  Pulled pork sandwiches, Brisket, Hot dogs,
+Beans, Cole Slaw, Potato salad, Rolls, Cookies, Watermelon, Water, Soda.
 
 You are welcome to bring a side dish or a dessert, but don't feel obligated.
 
 Although we are not serving alcohol beverages, you may bring your own.
-
-This event is not sponsored, nor paid for, by the Pine Trace at Bink's Forest Home Owner's Association.
-It's simply your neighbors huckin' in a couple of bucks to have a party.
 
 ## Rain Date
 
@@ -35,11 +32,16 @@ It's simply your neighbors huckin' in a couple of bucks to have a party.
 
 For more information and updated information, visit:
 
-  - https://hub.dockter.com/pine-trace-at-binks-forest/20221008-october-feast
+- https://hub.dockter.com/pine-trace-at-binks-forest/20221008-october-feast
 
 For questions, feel free to contact:
 
- - Michael Dockter
- - 15530 Whispering Willow Drive
- - michael@dockter.com
- - 561-792-2797
+- Michael Dockter
+- 15530 Whispering Willow Drive
+- michael@dockter.com
+- 561-792-2797
+
+## Disclaimer
+
+This event is not sponsored, nor paid for, by the Pine Trace at Bink's Forest Home Owner's Association.
+It's simply your neighbors huckin' in a couple of bucks to have a party.
