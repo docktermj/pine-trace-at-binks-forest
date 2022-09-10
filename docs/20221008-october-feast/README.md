@@ -2,7 +2,7 @@
 
  It's about time we got together to meet our neighbors, right?   Let's do it.
 
-## Quick facts:
+## Quick facts
 
 - **Who:** Families of Pine Trace at Bink's Forest
 - **What:** A block party
@@ -16,8 +16,8 @@ Some of your neighbors have banded together to put together a block party.
 Come join us for food, beverage, and conversation.
 This is a free event.
 
-The plan is to serve the following:  Pulled pork sandwiches, Brisket, Hot dogs,
-Beans, Cole Slaw, Potato salad, Rolls, Cookies, Watermelon, Water, Soda.
+The plan is to serve the following:  pulled pork sandwiches, brisket, hot dogs,
+beans, cole slaw, potato salad, rolls, cookies, watermelon, water, soda.
 
 You are welcome to bring a side dish or a dessert, but don't feel obligated.
 
@@ -28,11 +28,11 @@ Although we are not serving alcohol beverages, you may bring your own.
 - **Where:** Near "Tot lot" on west end of Pine Trace development
 - **When:** Sunday, October 9, 2022 Starting at 2:00pm.  Food served at 3:00pm.
 
-## Contact information:
+## Contact information
 
 For more information and updated information, visit:
 
-- https://hub.dockter.com/pine-trace-at-binks-forest/20221008-october-feast
+- [https://hub.dockter.com/pine-trace-at-binks-forest/20221008-october-feast](https://hub.dockter.com/pine-trace-at-binks-forest/20221008-october-feast)
 
 For questions, feel free to contact:
 
