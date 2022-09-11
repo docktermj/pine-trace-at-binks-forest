@@ -35,7 +35,7 @@ If it rains on Saturday, the alternate date is:
 
 For more information and updated information, visit:
 
-- [https://hub.dockter.com/pine-trace-at-binks-forest/20221008-october-feast](https://hub.dockter.com/pine-trace-at-binks-forest/20221008-october-feast)
+- [https://hub.dockter.com/pine-trace-at-binks-forest/20221022-october-feast](https://hub.dockter.com/pine-trace-at-binks-forest/20221022-october-feast)
 
 For questions, feel free to contact:
 
