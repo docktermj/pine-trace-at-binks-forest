@@ -7,13 +7,13 @@
 - **Who:** Families of Pine Trace at Bink's Forest
 - **What:** A block party
 - **Where:** Near "Tot lot" on west end of Pine Trace development
-- **When:** Saturday, October 8, 2022 Starting at 4:00pm.  Food served at 5:00pm.
+- **When:** Saturday, October 22, 2022 Starting at 2:00pm.  Food served at 3:00pm.
 - **Why:** A time to meet your neighbors
 
 ## Details
 
 Some of your neighbors have banded together to put together a block party.
-Come join us for food, beverage, and conversation.
+Bring your family and join us for food, beverage, and conversation.
 This is a free event.
 
 The plan is to serve the following:  pulled pork sandwiches, brisket, hot dogs,
@@ -26,8 +26,10 @@ Depending on how many come, we may need a few more chairs.
 
 ## Rain Date
 
+If it rains on Saturday, the alternate date is:
+
 - **Where:** Near "Tot lot" on west end of Pine Trace development
-- **When:** Sunday, October 9, 2022 Starting at 2:00pm.  Food served at 3:00pm.
+- **When:** Sunday, October 23, 2022 Starting at 2:00pm.  Food served at 3:00pm.
 
 ## Contact information
 
