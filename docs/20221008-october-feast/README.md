@@ -20,8 +20,9 @@ The plan is to serve the following:  pulled pork sandwiches, brisket, hot dogs,
 beans, cole slaw, potato salad, rolls, cookies, watermelon, water, soda.
 
 You are welcome to bring a side dish or a dessert, but don't feel obligated.
-
 Although we are not serving alcohol beverages, you may bring your own.
+
+Depending on how many come, we may need a few more chairs.
 
 ## Rain Date
 
