@@ -8,14 +8,14 @@ Current count:
 
 ## Wednesday
 
-1. Buy supplies
+1. Buy supplies (Mike):
     1. 8 tablecloths
     1. Tablecloth clips
     1. 50 plastic Knives, Forks, and Spoons
     1. Name tags
     1. 50 plastic cups
     1. Napkins
-1. Buy food:
+1. Buy food (Mike):
     1. 3 Watermelon
     1. 1 case (36 cans) Coca cola
     1. 1 case (36 cans) Sprite
@@ -23,7 +23,7 @@ Current count:
 
 ## Friday 1:00p
 
-1. Buy food:
+1. Buy food (Sam & Mike):
     1. Pulled pork
     1. Brisket
     1. Hot dogs
@@ -32,7 +32,7 @@ Current count:
 
 ## Saturday 9:00a
 
-1. Buy food
+1. Buy food (Mike)
     1. Ice for chilling beverages
     1. Hot dogs
     1. Potato salad
