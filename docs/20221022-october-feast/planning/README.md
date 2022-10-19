@@ -1,11 +1,10 @@
-# 2022 Pine Trace October Feast block party planning
+# 2022 Pine Trace October Feast planning
 
 Current count:
 
 1. 13 Cards returned
     1. 2 Cards "no"
-1. 26 confirmed "eaters"
-1.
+1. 26 confirmed "eaters" (Missing Falzone, Hanford)
 
 ## Wednesday
 
@@ -31,7 +30,7 @@ Current count:
     1. Beans
     1. Rolls (or is that Saturday?)
 
-## Saturday AM
+## Saturday 9:00a
 
 1. Buy food
     1. Ice for chilling beverages
@@ -43,10 +42,17 @@ Current count:
 ## Saturday 1:00p
 
 1. Set up tables
+    1. 2 Food
+    1. 4-6 Dining
+1. Chairs
 1. Basket with name tags and markers
-1. Bring out chairs
+1. Garbage cans
+1. Recycle bins
+1. TV for football
 
 ## Saturday 2:00p
+
+1. Begin of event
 
 ## Saturday 3:00p
 
