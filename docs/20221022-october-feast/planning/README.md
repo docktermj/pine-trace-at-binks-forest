@@ -15,7 +15,7 @@ Current count:
     1. 50 plastic cups
     1. Napkins
     1. Name tags
-1. Buy food (Mike - Costco):
+1. Buy food at Costco (Mike):
     1. 3 Watermelons
     1. 1 case (36 cans) Coca cola
     1. 1 case (36 cans) Sprite
@@ -30,9 +30,16 @@ Current count:
     1. Beans
     1. Rolls (or is that Saturday?)
 1. Preparations:
-    1. 3-6 Serving spoons for Cole slaw, Potato salad, Beans
-    1. Serving containers for Cole slaw, Potato salad, Beans
-    1. Serving containers for Pulled pork, Brisket, Hot dogs, Watermelon,
+    1. Serving containers and utensils for:
+        1. Rolls
+        1. Pulled pork
+        1. Brisket
+        1. Hot dogs
+        1. Beans
+        1. Cole slaw
+        1. Potato salad
+        1. Watermelon
+        1. Cookies
     1. Clean "ice chest" for cold drinks
     1. Knife for Watermelon
     1. Baskets for Knives, Forks, Spoons, Plastic cups, Napkins
@@ -43,9 +50,11 @@ Current count:
 1. Buy food (Mike)
     1. Ice for chilling beverages
     1. Hot dogs
+    1. Hot dog buns
+    1. Cole slaw
     1. Potato salad
     1. Cookies
-    1. Cole slaw
+    1. Ketchup, Mustard, Relish
 
 ## Saturday 1:00p
 
