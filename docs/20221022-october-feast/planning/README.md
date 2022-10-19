@@ -26,7 +26,7 @@ Current count:
 1. Buy food (Sam & Mike):
     1. Pulled pork
     1. Brisket
-    1. Hot dogs
+    1. 16-24 Hot dogs (or is that Costco on Saturday?)
     1. Beans
     1. Rolls (or is that Saturday?)
 1. Preparations:
@@ -58,6 +58,7 @@ Current count:
 
 ## Saturday 1:00p
 
+1. Put soda and water on ice
 1. Set up tables
     1. 2 Food
     1. 4-6 Dining
