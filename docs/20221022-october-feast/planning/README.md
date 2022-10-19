@@ -3,11 +3,8 @@
 
 ## Wednesday
 
-<ol>
-  <li><input type="checkbox">8 Tablecloths</input></li>
-  <li><input type="checkbox">3 Watermelon</input></li>
-
-</ol>
+<input type="checkbox">8 Tablecloths</input>
+<input type="checkbox">3 Watermelon</input>
 
 ## Friday
 
