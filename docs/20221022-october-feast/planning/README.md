@@ -29,6 +29,14 @@ Current count:
     1. Hot dogs
     1. Beans
     1. Rolls (or is that Saturday?)
+1. Preparations:
+    1. 3-6 Serving spoons for Cole slaw, Potato salad, Beans
+    1. Serving containers for Cole slaw, Potato salad, Beans
+    1. Serving containers for Pulled pork, Brisket, Hot dogs, Watermelon,
+    1. Clean "ice chest" for cold drinks
+    1. Knife for Watermelon
+    1. Baskets for Knives, Forks, Spoons, Plastic cups, Napkins
+    1. Basket for Name tags and markers
 
 ## Saturday 9:00a
 
