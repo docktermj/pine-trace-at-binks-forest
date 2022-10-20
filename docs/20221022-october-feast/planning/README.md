@@ -8,18 +8,21 @@ Current count:
 
 ## Wednesday
 
-1. Buy supplies (Mike):
-    1. 8 tablecloths
-    1. Tablecloth clips
-    1. 50 plastic Knives, Forks, and Spoons
-    1. 50 plastic cups
-    1. Napkins
+1. Buy supplies at Office Depot:
     1. Name tags
+1. Buy supplies at Costco (Mike):
+    1. 180 plastic forks
+    1. 120 plastic spoons
+    1. 60 plastic knives
+    1. 1120 napkins
+    1. 100 plastic cups
+    1. 225 paper plates
+    1. 15 Full size steam table pans
 1. Buy food at Costco (Mike):
     1. 3 Watermelons
-    1. 1 case (36 cans) Coca cola
-    1. 1 case (36 cans) Sprite
-    1. 1 case (?? bottles) Water
+    1. 1 case (35 cans) Coca cola
+    1. 1 case (35 cans) Sprite
+    1. 2 cases (80 .5L bottles) Water
 
 ## Friday 1:00p
 
@@ -29,6 +32,9 @@ Current count:
     1. 16-24 Hot dogs (or is that Costco on Saturday?)
     1. Beans
     1. Rolls (or is that Saturday?)
+1. Buy Supplies:
+    1. 8 tablecloths
+    1. Tablecloth clips
 1. Preparations:
     1. Serving containers and utensils for:
         1. Rolls
@@ -47,14 +53,16 @@ Current count:
 
 ## Saturday 9:00a
 
-1. Buy food (Mike)
-    1. Ice for chilling beverages
+1. Buy food at Costco (Mike)
     1. Hot dogs
     1. Hot dog buns
+    1. Cookies
+1. Buy food at Publix
+    1. Ice for chilling beverages
     1. Cole slaw
     1. Potato salad
-    1. Cookies
-    1. Ketchup, Mustard, Relish
+    1. Ketchup
+    1. Mustard
 
 ## Saturday 1:00p
 
