@@ -1,6 +1,5 @@
 # House numbers
 
-
 - 1: 15490
 - 2: 15498 - Kevin & Kara
 - 3: 15506
