@@ -26,7 +26,7 @@ Depending on how many come, we may need a few more chairs.
 
 ## Rain Date
 
-If it rains on Sunday, the alternate date is:
+If it rains on Sunday, the alternate date is the following Sunday:
 
 - **Where:** Near "Tot lot" on west end of Pine Trace development
 - **When:** Sunday, October 29, 2022 Starting at 3:00pm.  Food served at 4:00pm.
