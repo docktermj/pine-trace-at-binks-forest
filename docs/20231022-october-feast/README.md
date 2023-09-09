@@ -39,8 +39,8 @@ For updated information, visit:
 
 For questions, feel free to contact:
 
-- Michael & Stephanie Dockter, 15530 Whispering Willow Drive, <michael@dockter.com>, 561-792-2797
-- Sam & Barbara Falzone, 15578 Whispering Willow Drive, <bfalzone@bellsouth.net>, 561-790-4349
+- Michael & Stephanie Dockter, 15530 Whispering Willow Drive, michael@dockter.com, 561-792-2797
+- Sam & Barbara Falzone, 15578 Whispering Willow Drive, bfalzone@bellsouth.net, 561-790-4349
 
 ## Disclaimer
 
