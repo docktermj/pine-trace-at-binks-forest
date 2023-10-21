@@ -2,85 +2,80 @@
 
 Current count:
 
-1. ?? Cards returned
-    1. ? Cards "no"
-1. ?? confirmed "eaters" (Missing Falzone, Hanford)
+1. 9 Cards returned
+    1. 0 Cards "no"
+1. 29 confirmed "eaters"
 
-## Wednesday
+## Preparation
 
-1. Buy supplies at Office Depot:
-    1. Name tags
+1. Buy supplies from Amazon (Mike):
+    1. [x] 12 tablecloths
+    1. [x] Tablecloth clips
+    1. [x] Name tags
+    1. [x] Black magic markers
 1. Buy supplies at Costco (Mike):
-    1. 180 plastic forks
-    1. 120 plastic spoons
-    1. 60 plastic knives
-    1. 1120 napkins
-    1. 100 plastic cups
-    1. 225 paper plates
-    1. 15 Full size steam table pans
+    1. [x] 180 plastic forks
+    1. [x] 120 plastic spoons
+    1. [x] 60 plastic knives
+    1. [x] 1120 napkins
+    1. [x] 100 plastic cups
+    1. [x] 225 paper plates
+    1. [x] 15 Full size steam table pans
 1. Buy food at Costco (Mike):
-    1. 3 Watermelons
-    1. 1 case (35 cans) Coca cola
-    1. 1 case (35 cans) Sprite
-    1. 2 cases (80 .5L bottles) Water
+    1. [x] 1 case (35 cans) Coca cola
+    1. [x] 1 case (35 cans) Sprite
+    1. [x] 2 cases (80 .5L bottles) Water
+    1. [x] Ketchup, mustard, relish bottles
+1. Buy (Mike)
+    1. [x] Sterno
+1. Serving utensils:
+    1. [ ] Pulled pork and brisket
+    1. [ ] Hotdogs
+    1. [ ] Coleslaw, potato salad, and beans
+    1. [x] Knife for watermelon
+1. Other
+    1. [x] Baskets for knives, forks, and spoons
+    1. [x] Basket for name tags and markers
 
-## Friday 1:00p
+## Saturday
 
-1. Buy food (Sam & Mike):
-    1. Pulled pork
-    1. Brisket
-    1. 16-24 Hot dogs (or is that Costco on Saturday?)
-    1. Beans
-    1. Rolls (or is that Saturday?)
-1. Buy Supplies:
-    1. 8 tablecloths
-    1. Tablecloth clips
+1. Buy at BJs (Mike):
+    1. [ ] 3 doz. Hotdog buns
+    1. [ ] 4 doz. Rolls (for pulled pork)
+    1. [ ] Cole slaw
+    1. [ ] Potato salad
+    1. [ ] 2 - Watermelon
+    1. [ ] Serving spoons
+1. Buy food (Sam):
+    1. [x] Pulled pork
+    1. [x] Brisket
+    1. [x] 16-24 Hot dogs
+    1. [x] Beans
 1. Preparations:
-    1. Serving containers and utensils for:
-        1. Rolls
-        1. Pulled pork
-        1. Brisket
-        1. Hot dogs
-        1. Beans
-        1. Cole slaw
-        1. Potato salad
-        1. Watermelon
-        1. Cookies
-    1. Clean "ice chest" for cold drinks
-    1. Knife for Watermelon
-    1. Baskets for Knives, Forks, Spoons, Plastic cups, Napkins
-    1. Basket for Name tags and markers
+    1. [ ] Clean "ice chest" for cold drinks
+    1. [ ] Pre-chill drinks
 
-## Saturday 9:00a
+## Saturday 6:00p
 
-1. Buy food at Costco (Mike)
-    1. Hot dogs
-    1. Hot dog buns
-    1. Cookies
-1. Buy food at Publix
-    1. Ice for chilling beverages
-    1. Cole slaw
-    1. Potato salad
-    1. Ketchup
-    1. Mustard
+1. [ ] Test TV for football
 
 ## Sunday 1:00p
 
-1. Put soda and water on ice
-1. Set up tables
-    1. 2 Food
-    1. 4-6 Dining
-1. Chairs
-1. Basket with name tags and markers
-1. Garbage cans
-1. Recycle bins
-1. TV for football
-
-## Sunday 2:00p
-
-1. Begin of event
-1. Take photos of families
+1. [ ] Put soda and water on ice (Buy ice, if needed)
+1. [ ] Set up tables with tablecloths and clips
+    1. [ ] 2 Food
+    1. [ ] 4-6 Dining
+1. [ ] Chairs
+1. [ ] Basket with name tags and markers
+1. [ ] Garbage cans
+1. [ ] Recycle bins
+1. [ ] TV for football
 
 ## Sunday 3:00p
 
-1. Bring out the food
+1. [ ] Begin of event
+1. [ ] Take photos of families
+
+## Sunday 4:00p
+
+1. [ ] Bring out the food
