@@ -32,7 +32,6 @@ Current count:
     1. [ ] Pulled pork and brisket
     1. [ ] Hotdogs
     1. [ ] Coleslaw, potato salad, and beans
-    1. [x] Knife for watermelon
 1. Other
     1. [x] Baskets for knives, forks, and spoons
     1. [x] Basket for name tags and markers
@@ -40,12 +39,11 @@ Current count:
 ## Saturday
 
 1. Buy at BJs (Mike):
-    1. [ ] 3 doz. Hotdog buns
-    1. [ ] 4 doz. Rolls (for pulled pork)
+    1. [ ] 2 doz. Hotdog buns
+    1. [ ] 2 doz. Rolls (for pulled pork)
     1. [ ] Cornbread
     1. [ ] Cole slaw
     1. [ ] Potato salad
-    1. [ ] 2 - Watermelon
     1. [ ] Serving spoons
 1. Buy food (Sam):
     1. [x] Pulled pork
