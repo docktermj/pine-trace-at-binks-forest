@@ -1,6 +1,6 @@
 # House numbers
 
-| #  | Address | Signature |
+| #  | Address | <div style="width:290px">Signature</div> |
 | -- | ------- | --------- |
 |  1 |   15490 |           |
 |  2 |   15498 |           |
