@@ -19,4 +19,4 @@ We'll be reviewing the [Parliamentary Procedure Cheat Sheet].
 [Robert's Rules of Order book]: https://robertsrules.com/
 [Roberts Rules of Order – Simplified]: https://assembly.cornell.edu/sites/default/files/roberts_rules_simplified.pdf
 [San Antonio Robert's Rules of Order: Quick Reference Guide]: https://www.sa.gov/files/assets/main/v/1/ce/documents/roberts-rules-of-order.pdf
-[Parliamentary Procedure Cheat Sheet]:
+[Parliamentary Procedure Cheat Sheet]: parliamentary-procedure.pdf
