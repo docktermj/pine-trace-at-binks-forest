@@ -4,7 +4,13 @@ We'll be reviewing the [Parliamentary Procedure Cheat Sheet].
 
 ## Additional References
 
-- [BoardEffect Robert's Rules of Order Cheat Sheet]
+- [BoardEffect Robert's Rules of Order Cheat Sheet] - Chart in the form:
+
+    | Action                | What to Say   | Can interrupt speaker? | Need a Second? |  Can be Debated? | Can be Amended? | Votes Needed |
+    |-----------------------|---------------|:----------------------:|:--------------:|:----------------:|:---------------:|:------------:|
+    | Introduce main motion | "_I move to_" | No                     | Yes            | Yes              | Yes             | Majority     |
+    |                       |               |                        |                |                  |                 |              |
+
 - [BoardEffect]
 - [How To Run A Meeting According To Robert’s Rules Of Order]
 - [Robert’s Rules For Dummies: Cheat Sheet]
